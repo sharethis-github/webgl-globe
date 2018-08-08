@@ -7,6 +7,7 @@ A forked repo for utilizing webgl-globe
 ```
 npm install
 npm start
+npm run start-vertex
 ```
 
 
