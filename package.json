@@ -1,0 +1,23 @@
+{
+  "name": "st-webgl-globe",
+  "version": "1.0.0",
+  "description": "sharethis web globe ui",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./globe/ -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharethis-github/webgl-globe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharethis-github/webgl-globe/issues"
+  },
+  "homepage": "https://github.com/sharethis-github/webgl-globe#readme",
+  "dependencies": {
+    "http-server": "0.11.1"
+  }
+}
